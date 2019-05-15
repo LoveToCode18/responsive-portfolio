@@ -151,3 +151,12 @@ cursor: pointer;
     line-height: 1px;
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
+@media (max-width:980px){
+
+}
+@media (max-width:768px){
+
+}
+@media (max-width:640px){
+    
+}
